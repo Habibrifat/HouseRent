@@ -1081,6 +1081,7 @@ drawable family_time
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable grid
+drawable help
 drawable home_page
 drawable ic_audiotrack_dark
 drawable ic_audiotrack_light
@@ -1420,6 +1421,7 @@ id goEdit
 id gone
 id group_divider
 id groups
+id help
 id home
 id homeAsUp
 id icon
