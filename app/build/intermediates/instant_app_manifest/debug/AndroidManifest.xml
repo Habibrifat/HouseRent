@@ -27,6 +27,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.renthoom.help" />
         <activity android:name="com.example.renthoom.Search" />
         <activity android:name="com.example.renthoom.Adsphone" />
         <activity android:name="com.example.renthoom.EditAds" />

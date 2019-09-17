@@ -6,7 +6,7 @@
     density="xhdpi"
     format="10"
     plugin-version="3.4.0"
-    timestamp="1568447212241"
+    timestamp="1568695127472"
     token="-613224999475635623"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -18,43 +18,43 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="7500" />
+        duration="0" />
     <task
         name="verifier"
         duration="0" />
 
     <artifact
-        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
         location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
+        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
         location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
@@ -62,40 +62,40 @@
 
     <build
         build-mode="FULL"
-        timestamp="1568447212241"
+        timestamp="1568695127472"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
         <artifact
             location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\USER\AndroidStudioProjects\RentHome-master\app\build\intermediates\instant-run-apk\debug\app-debug.apk"

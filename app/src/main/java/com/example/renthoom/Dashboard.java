@@ -57,6 +57,14 @@ public class Dashboard extends AppCompatActivity  {
             }
         });
 
+        final Button help = findViewById(R.id.help);
+        help.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Dashboard.this,help.class));
+            }
+        });
+
     }
 
 

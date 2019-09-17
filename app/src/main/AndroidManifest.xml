@@ -2,9 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.renthoom">
 
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -12,15 +14,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.renthoom.Search" />
-        <activity android:name="com.example.renthoom.Adsphone" />
-        <activity android:name="com.example.renthoom.EditAds" />
-        <activity android:name="com.example.renthoom.Details" />
-        <activity android:name="com.example.renthoom.Information_menu" />
-        <activity android:name="com.example.renthoom.Dashboard" />
-        <activity android:name="com.example.renthoom.Register" />
-        <activity android:name="com.example.renthoom.Login" />
-        <activity android:name="com.example.renthoom.MainActivity"
+        <activity android:name=".help"></activity>
+        <activity android:name=".Search" />
+        <activity android:name=".Adsphone" />
+        <activity android:name=".EditAds" />
+        <activity android:name=".Details" />
+        <activity android:name=".Information_menu" />
+        <activity android:name=".Dashboard" />
+        <activity android:name=".Register" />
+        <activity android:name=".Login" />
+        <activity
+            android:name=".MainActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -29,6 +33,5 @@
             </intent-filter>
         </activity>
     </application>
-    <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
 
 </manifest>

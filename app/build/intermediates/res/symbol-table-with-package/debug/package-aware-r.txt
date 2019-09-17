@@ -1403,6 +1403,7 @@ id dscriptionID
 id dscriptionID1
 id editAds
 id edit_query
+id email
 id end
 id end_padder
 id enterAlways
@@ -1452,6 +1453,7 @@ id media_actions
 id message
 id middle
 id mini
+id mobileNo
 id mr_art
 id mr_cast_checkbox
 id mr_cast_close_button
@@ -1682,6 +1684,7 @@ layout activity_adsphone
 layout activity_dashboard
 layout activity_details
 layout activity_edit_ads
+layout activity_help
 layout activity_information_menu
 layout activity_login
 layout activity_main
@@ -1740,6 +1743,7 @@ layout show_ad
 layout support_simple_spinner_dropdown_item
 menu information_list_activity
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string abc_action_bar_home_description
 string abc_action_bar_up_description
